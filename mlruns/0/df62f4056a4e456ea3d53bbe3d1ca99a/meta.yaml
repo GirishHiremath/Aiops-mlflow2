@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/df62f4056a4e456ea3d53bbe3d1ca99a/artifacts
+end_time: 1683096092679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df62f4056a4e456ea3d53bbe3d1ca99a
+run_name: sincere-deer-903
+run_uuid: df62f4056a4e456ea3d53bbe3d1ca99a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096091553
+status: 3
+tags: []
+user_id: girish

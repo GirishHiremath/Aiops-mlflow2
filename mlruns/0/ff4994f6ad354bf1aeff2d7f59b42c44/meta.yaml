@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/ff4994f6ad354bf1aeff2d7f59b42c44/artifacts
+end_time: 1683095942559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff4994f6ad354bf1aeff2d7f59b42c44
+run_name: traveling-flea-614
+run_uuid: ff4994f6ad354bf1aeff2d7f59b42c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095941432
+status: 3
+tags: []
+user_id: girish

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/d6fb9508647c4b21845fe122f2add515/artifacts
+end_time: 1683096046560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6fb9508647c4b21845fe122f2add515
+run_name: receptive-mule-791
+run_uuid: d6fb9508647c4b21845fe122f2add515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096045469
+status: 3
+tags: []
+user_id: girish

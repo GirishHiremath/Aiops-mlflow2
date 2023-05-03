@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/2a9e5f3f22ab44ba91dbf2284c4a60e8/artifacts
+end_time: 1683096052898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a9e5f3f22ab44ba91dbf2284c4a60e8
+run_name: unequaled-panda-951
+run_uuid: 2a9e5f3f22ab44ba91dbf2284c4a60e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096051821
+status: 3
+tags: []
+user_id: girish

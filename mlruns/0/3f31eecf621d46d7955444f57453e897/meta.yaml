@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/3f31eecf621d46d7955444f57453e897/artifacts
+end_time: 1683096039923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f31eecf621d46d7955444f57453e897
+run_name: flawless-donkey-778
+run_uuid: 3f31eecf621d46d7955444f57453e897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096038812
+status: 3
+tags: []
+user_id: girish

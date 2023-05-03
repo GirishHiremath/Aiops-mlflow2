@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/bed2777318364a599dcc3f014d057893/artifacts
+end_time: 1683096026987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bed2777318364a599dcc3f014d057893
+run_name: wise-steed-384
+run_uuid: bed2777318364a599dcc3f014d057893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096025919
+status: 3
+tags: []
+user_id: girish

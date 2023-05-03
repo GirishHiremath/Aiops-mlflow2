@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/cc210082439c433193f0f24e44eada7e/artifacts
+end_time: 1683096017149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc210082439c433193f0f24e44eada7e
+run_name: charming-kite-870
+run_uuid: cc210082439c433193f0f24e44eada7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096016083
+status: 3
+tags: []
+user_id: girish

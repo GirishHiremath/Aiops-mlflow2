@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/6c0ee0f154c84baea50b5f08b031ca1c/artifacts
+end_time: 1683095948031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c0ee0f154c84baea50b5f08b031ca1c
+run_name: suave-squid-534
+run_uuid: 6c0ee0f154c84baea50b5f08b031ca1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095947924
+status: 4
+tags: []
+user_id: girish

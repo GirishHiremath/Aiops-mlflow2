@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/73b091c577f1425a9c839f335356693b/artifacts
+end_time: 1683096059409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b091c577f1425a9c839f335356693b
+run_name: bright-bat-34
+run_uuid: 73b091c577f1425a9c839f335356693b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096058283
+status: 3
+tags: []
+user_id: girish

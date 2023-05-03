@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/e321a8dfd9a44a279dba33b5f5469f25/artifacts
+end_time: 1683096079268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e321a8dfd9a44a279dba33b5f5469f25
+run_name: shivering-hound-222
+run_uuid: e321a8dfd9a44a279dba33b5f5469f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096078136
+status: 3
+tags: []
+user_id: girish

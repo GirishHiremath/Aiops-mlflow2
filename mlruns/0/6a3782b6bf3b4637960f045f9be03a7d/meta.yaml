@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/6a3782b6bf3b4637960f045f9be03a7d/artifacts
+end_time: 1683095923236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a3782b6bf3b4637960f045f9be03a7d
+run_name: upset-slug-501
+run_uuid: 6a3782b6bf3b4637960f045f9be03a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095922179
+status: 3
+tags: []
+user_id: girish

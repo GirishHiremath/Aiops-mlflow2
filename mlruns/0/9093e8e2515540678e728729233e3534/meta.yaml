@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/9093e8e2515540678e728729233e3534/artifacts
+end_time: 1683095939331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9093e8e2515540678e728729233e3534
+run_name: welcoming-goose-540
+run_uuid: 9093e8e2515540678e728729233e3534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095938157
+status: 3
+tags: []
+user_id: girish

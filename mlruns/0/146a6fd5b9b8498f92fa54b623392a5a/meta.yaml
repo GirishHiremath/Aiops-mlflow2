@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/146a6fd5b9b8498f92fa54b623392a5a/artifacts
+end_time: 1683096020625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 146a6fd5b9b8498f92fa54b623392a5a
+run_name: secretive-shad-454
+run_uuid: 146a6fd5b9b8498f92fa54b623392a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096019560
+status: 3
+tags: []
+user_id: girish

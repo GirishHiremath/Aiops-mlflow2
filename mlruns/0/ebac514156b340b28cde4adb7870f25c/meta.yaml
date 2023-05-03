@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/ebac514156b340b28cde4adb7870f25c/artifacts
+end_time: 1683095929367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebac514156b340b28cde4adb7870f25c
+run_name: rumbling-colt-553
+run_uuid: ebac514156b340b28cde4adb7870f25c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095928298
+status: 3
+tags: []
+user_id: girish
