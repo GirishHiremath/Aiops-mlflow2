@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/565c881b7c0c4a698502b62abb363e22/artifacts
+end_time: 1683097452239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 565c881b7c0c4a698502b62abb363e22
+run_name: capricious-hog-257
+run_uuid: 565c881b7c0c4a698502b62abb363e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683097448579
+status: 3
+tags: []
+user_id: girish
