@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/58ad4304e5f946279a6e017aa0736ea7/artifacts
+end_time: 1683096033550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58ad4304e5f946279a6e017aa0736ea7
+run_name: defiant-stoat-467
+run_uuid: 58ad4304e5f946279a6e017aa0736ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096032470
+status: 3
+tags: []
+user_id: girish

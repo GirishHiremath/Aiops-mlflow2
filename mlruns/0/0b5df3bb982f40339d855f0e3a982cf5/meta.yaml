@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/0b5df3bb982f40339d855f0e3a982cf5/artifacts
+end_time: 1683096062578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b5df3bb982f40339d855f0e3a982cf5
+run_name: amazing-newt-216
+run_uuid: 0b5df3bb982f40339d855f0e3a982cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096061442
+status: 3
+tags: []
+user_id: girish

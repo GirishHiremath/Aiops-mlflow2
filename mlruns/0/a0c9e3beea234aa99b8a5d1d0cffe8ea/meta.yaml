@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/a0c9e3beea234aa99b8a5d1d0cffe8ea/artifacts
+end_time: 1683096089502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0c9e3beea234aa99b8a5d1d0cffe8ea
+run_name: efficient-smelt-646
+run_uuid: a0c9e3beea234aa99b8a5d1d0cffe8ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096088375
+status: 3
+tags: []
+user_id: girish

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/2ee0ad0c49194354822f0045818bc439/artifacts
+end_time: 1683095926309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ee0ad0c49194354822f0045818bc439
+run_name: hilarious-lark-612
+run_uuid: 2ee0ad0c49194354822f0045818bc439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095925254
+status: 3
+tags: []
+user_id: girish

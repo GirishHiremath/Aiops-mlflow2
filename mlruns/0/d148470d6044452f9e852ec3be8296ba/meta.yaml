@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/d148470d6044452f9e852ec3be8296ba/artifacts
+end_time: 1683096095846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d148470d6044452f9e852ec3be8296ba
+run_name: silent-cow-397
+run_uuid: d148470d6044452f9e852ec3be8296ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096094728
+status: 3
+tags: []
+user_id: girish

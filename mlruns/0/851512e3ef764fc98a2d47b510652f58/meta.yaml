@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/851512e3ef764fc98a2d47b510652f58/artifacts
+end_time: 1683095936117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 851512e3ef764fc98a2d47b510652f58
+run_name: delicate-roo-134
+run_uuid: 851512e3ef764fc98a2d47b510652f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095934995
+status: 3
+tags: []
+user_id: girish

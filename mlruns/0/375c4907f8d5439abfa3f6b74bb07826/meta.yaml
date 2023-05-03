@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/375c4907f8d5439abfa3f6b74bb07826/artifacts
+end_time: 1683096049752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 375c4907f8d5439abfa3f6b74bb07826
+run_name: suave-colt-652
+run_uuid: 375c4907f8d5439abfa3f6b74bb07826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096048647
+status: 3
+tags: []
+user_id: girish

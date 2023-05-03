@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/c238b353e1ca4ac6ac2e51ecd842e715/artifacts
+end_time: 1683096076094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c238b353e1ca4ac6ac2e51ecd842e715
+run_name: wistful-bird-72
+run_uuid: c238b353e1ca4ac6ac2e51ecd842e715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096074964
+status: 3
+tags: []
+user_id: girish

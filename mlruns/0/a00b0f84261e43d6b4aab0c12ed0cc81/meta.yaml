@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/a00b0f84261e43d6b4aab0c12ed0cc81/artifacts
+end_time: 1683096069333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a00b0f84261e43d6b4aab0c12ed0cc81
+run_name: victorious-calf-344
+run_uuid: a00b0f84261e43d6b4aab0c12ed0cc81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096068201
+status: 3
+tags: []
+user_id: girish

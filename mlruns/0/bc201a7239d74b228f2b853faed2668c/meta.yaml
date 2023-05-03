@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/bc201a7239d74b228f2b853faed2668c/artifacts
+end_time: 1683096065796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc201a7239d74b228f2b853faed2668c
+run_name: nervous-flea-877
+run_uuid: bc201a7239d74b228f2b853faed2668c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683096064623
+status: 3
+tags: []
+user_id: girish

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/Aiops-mlflow2/mlruns/0/0c856f8a324e4826ae38c9dcbd6f697e/artifacts
+end_time: 1683095932898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c856f8a324e4826ae38c9dcbd6f697e
+run_name: languid-asp-765
+run_uuid: 0c856f8a324e4826ae38c9dcbd6f697e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683095931806
+status: 3
+tags: []
+user_id: girish
